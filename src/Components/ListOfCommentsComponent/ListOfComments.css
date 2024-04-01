@@ -1,0 +1,27 @@
+.comments{
+    display: flex;
+    width: 80%;
+}
+.item-userName{
+  font-size: 15px;
+  color: grey;
+  font-weight: 200;
+  width: fit-content;
+  margin-top: 1.3rem;
+  /* border: 2px solid red; */
+  margin-right: 10px;
+}
+.item-comment{
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+}
+.comment-respond-buttons{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.reply-list{
+  list-style: none;
+  margin-top: 1rem;
+}
